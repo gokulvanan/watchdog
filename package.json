@@ -1,8 +1,8 @@
 {
-    "name":"watchdog",
-    "version":"0.1.0",
-    "description":"alerting and monitoring system on hystrix streams and an other custom streams",
-    "author":"gokulvanan.v@flipkart.com",
+    "name":"hystrix-watchdog",
+    "version":"0.1.1",
+    "description":"alerting and monitoring system on hystrix streams but can be used for custom evenstreams",
+    "author":"gokulvanan@gmail.com",
     "bin": {
         "watchdog": "bin/watchdog"
     },
