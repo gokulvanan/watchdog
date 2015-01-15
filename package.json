@@ -1,0 +1,28 @@
+{
+    "name":"watchdog",
+    "version":"0.1.0",
+    "description":"alerting and monitoring system on hystrix streams and an other custom streams",
+    "author":"gokulvanan.v@flipkart.com",
+    "bin": {
+        "watchdog": "bin/watchdog"
+    },
+    "scripts":{
+    },
+    "main":"lib/watchdog",
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/gokulvanan/watchdog.git"
+    },
+    "dependencies":{
+        "async":"0.9.0",
+        "amqp":"0.2.0",
+        "eventsource":"0.1.4",
+        "winston":"0.7.2",
+        "commander":"2.6.0",
+        "nodemailer":"1.3.0",
+        "nodeunit":"0.8.2"
+    },
+    "devDependencies":{
+    }
+}
+
