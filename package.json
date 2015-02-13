@@ -1,6 +1,6 @@
 {
     "name":"hystrix-watchdog",
-    "version":"0.1.8",
+    "version":"0.1.9",
     "description":"alerting and monitoring system on hystrix streams but can be used for custom evenstreams",
     "author":"gokulvanan@gmail.com",
     "scripts":{
